@@ -1,6 +1,8 @@
 # MazeItUp
 Simple Little Maze Game made with C++ :)
 
+I'm a beginner when it comes to github so I apologize in advance if the files weren't uploaded in the best manner/organization
+
 
 Disclaimer:
 
