@@ -1,6 +1,6 @@
 # MazeItUp!
 ### Help Luna find her way out of the maze!
-Just a little maze game made with C++ :)
+Just a little maze game made with C++ and the SDL2 library :)
 
 I'm a beginner when it comes to github so I apologize in advance if the files weren't uploaded in the best manner/organization
 
