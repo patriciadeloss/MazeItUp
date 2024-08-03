@@ -1,4 +1,4 @@
-# MazeItUp
+# MazeItUp!
 ### Help Luna find her way out of the maze!
 Just a little maze game made with C++ :)
 
